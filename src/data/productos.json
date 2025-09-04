@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Manta Nido",
+    "description": "Manta tejida en nido de abeja 100% algodón",
+    "price": 25000,
+    "stock": 15,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Pie de cama en tusor",
+    "description": "Pie de cama confeccionado en tusor de algodón",
+    "price": 22000,
+    "stock": 10,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Pie de cama en gasa",
+    "description": "Pie de cama liviano en gasa natural",
+    "price": 21000,
+    "stock": 8,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Funda de edredón",
+    "description": "Funda de edredón en tusor suave y resistente",
+    "price": 35000,
+    "stock": 12,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Funda de almohadón en tusor",
+    "description": "Funda de almohadón 40x40 en tusor de algodón",
+    "price": 7000,
+    "stock": 25,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Funda de almohadón en nido",
+    "description": "Funda de almohadón 50x50 en tejido nido de abeja",
+    "price": 8000,
+    "stock": 20,
+    "category": "Para la cama"
+  },
+  {
+    "title": "Paño de cocina en nido",
+    "description": "Paño de cocina absorbente en tejido nido de abeja",
+    "price": 4500,
+    "stock": 40,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Paño de cocina en tusor",
+    "description": "Paño de cocina en tusor 100% algodón",
+    "price": 4000,
+    "stock": 35,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Camino de mesa en tusor",
+    "description": "Camino de mesa rústico en tusor",
+    "price": 12000,
+    "stock": 10,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Camino de mesa en gasa",
+    "description": "Camino de mesa liviano en gasa natural",
+    "price": 11000,
+    "stock": 10,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Mantel en tusor",
+    "description": "Mantel confeccionado en tusor de algodón",
+    "price": 18000,
+    "stock": 10,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Mantel antimanchas",
+    "description": "Mantel práctico con tela antimanchas lavable",
+    "price": 20000,
+    "stock": 8,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Mantel en gasa",
+    "description": "Mantel ligero y natural en gasa",
+    "price": 17000,
+    "stock": 6,
+    "category": "Living y cocina"
+  },
+  {
+    "title": "Cerámica artesanal",
+    "description": "Piezas únicas de cerámica esmaltada a mano",
+    "price": 15000,
+    "stock": 10,
+    "category": "Productos deco"
+  },
+  {
+    "title": "Florero cerámica",
+    "description": "Florero artesanal de cerámica esmaltada",
+    "price": 12000,
+    "stock": 12,
+    "category": "Productos deco"
+  },
+  {
+    "title": "Plato cerámica",
+    "description": "Plato de cerámica esmaltada artesanal",
+    "price": 6000,
+    "stock": 20,
+    "category": "Productos deco"
+  },
+  {
+    "title": "Taza cerámica",
+    "description": "Taza de cerámica hecha a mano",
+    "price": 5000,
+    "stock": 30,
+    "category": "Productos deco"
+  },
+  {
+    "title": "Bandeja decorativa",
+    "description": "Bandeja artesanal de cerámica y madera",
+    "price": 14000,
+    "stock": 8,
+    "category": "Productos deco"
+  },
+  {
+    "title": "Individual en tusor",
+    "description": "Individual de mesa en tusor rústico",
+    "price": 8500,
+    "stock": 40,
+    "category": "Productos deco"
+  }
+]
